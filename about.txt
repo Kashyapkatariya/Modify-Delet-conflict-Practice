@@ -1,2 +1,0 @@
-This is a git project
-we are larning Git and Github.
